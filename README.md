@@ -91,12 +91,4 @@ In the future it would be interesting to change JQuery for React or another more
 
 # Author:
 
-Jhoan Zamora: [Mugisha-Beline](https://github.com/Mugisha-Beline)
-
-# About Myself
-
-🎯 I am a Fullstack developer in love with technology and keen to learn new things everyday. My strenghts reside in Python and JavaScript although I am not afraid to take on any other language.
-
-🎯 I have experience developing both back end and front end. I have used technologies such as Bootstrap, SASS, React, Flask, Django, Express, SQL, MongoDB, AWS, among others.
-
-🎯 I also studied Sound Engineering some years ago, and I love music, videogames, and audiovisual media.
+Chidera Udoneso Anele: [Chidera-Anele](https://github.com/Chidera0001)
